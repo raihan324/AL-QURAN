@@ -1,0 +1,11 @@
+.named {
+    width: 250px;
+    display: block;
+    margin: 50px auto;
+    fill: #fff;
+}
+
+.surahs__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
